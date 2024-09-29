@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "1077930819082",
+    "project_id": "enorsia-efb8a",
+    "storage_bucket": "enorsia-efb8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077930819082:android:c05b5012f88477fde8a9f3",
+        "android_client_info": {
+          "package_name": "com.ptvl.enorsia.enorsia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077930819082-d7nobhqlbs4ugnemlapmj7qtp8vsm5fr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ptvl.enorsia.enorsia",
+            "certificate_hash": "222d9676833be94bd1486584c3fac670a295f76a"
+          }
+        },
+        {
+          "client_id": "1077930819082-m5kl6dpplpsl7cq4gst2ghlp38fdkhkc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ptvl.enorsia.enorsia",
+            "certificate_hash": "d084c4ab045c2435810ae74dbec6c6eaf6b8c7a2"
+          }
+        },
+        {
+          "client_id": "1077930819082-db2ecnvvkk32cju7ahqmdlcar987mfsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtPTzVRY5xG4kOuQx-maNhPA-SOw4dbUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077930819082-db2ecnvvkk32cju7ahqmdlcar987mfsh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1077930819082-et39fqc92u0rp9sro67ub302s83hqrq7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.psl.enorsia.ecom"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
